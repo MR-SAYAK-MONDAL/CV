@@ -1,0 +1,27 @@
+body{
+    margin-right: 05px;
+    padding-left: 05px;
+    background-color: #eaf6f6;
+    /* background-color:aquamarine; */
+}
+
+img{
+    -webkit-clip-path: circle(45.0% at 50% 50%);
+clip-path: circle(45.0% at 50% 50%);
+}
+
+hr{
+    border-color: #66bfbf;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 6px;
+    width: 3%;
+}
+
+h3, h4, h6{
+    color: #FE8F8F;
+}
+
+h1, h2 {
+    color: #66bfbf;
+}
